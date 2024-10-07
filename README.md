@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 👋 Hi, I’m Hadi Shakibazad<br>- 👀 I’m interested in Web Development<br>- 🌱 I’m currently learning Back-end<br>- 📫 To reach me just send an email  =)
+- 👋 Hi, I’m Hadi Shakibazad
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Back-end
+- 📫 To reach me just send an email
 
 
 # 💻 Tech Stack:
