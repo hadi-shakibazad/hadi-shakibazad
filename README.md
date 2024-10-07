@@ -12,7 +12,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hadi-shakibazad&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-shakibazad&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=hadi-shakibazad&icon=2&color=11)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
